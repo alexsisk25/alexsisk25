@@ -9,7 +9,6 @@ Portfolio and writing: [alexsisk.ai](https://alexsisk.ai)
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Echo AI](https://github.com/alexsisk25/echo-ai) | Private meeting intelligence for Apple Silicon. Audio never leaves the Mac. | Python, FastAPI, MLX Whisper |
-| [Flo](https://github.com/alexsisk25/flo-ai) | Local voice dictation for macOS with an AI cleanup layer that learns from your corrections. | Python, Whisper |
 | [Family Style](https://family-style-pi.vercel.app) | Shared family recipe books with AI recipe import, nutrition per serving and weekly planning. | Next.js, Supabase, Vercel |
 
 ## How I work
