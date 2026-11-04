@@ -4,6 +4,12 @@ I build AI tools and agent systems, and I help businesses figure out where AI ac
 
 Portfolio and writing: [alexsisk.ai](https://alexsisk.ai)
 
+## Try this: Prompt Enhancer
+
+An Enhance button for Claude Code. Type or dictate a rough idea, press the button, and get a clear prompt back in the box to review before you send it. The guide includes a paste-in build prompt, so Claude Code builds it for your setup.
+
+[Get the guide](https://github.com/alexsisk25/prompt-enhancer)
+
 ## What I've built
 
 | Project | What it does | Stack |
